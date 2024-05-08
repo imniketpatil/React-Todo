@@ -45,7 +45,7 @@ This repository contains a simple Todo List application built using React, Tailw
 5. Open the application in your browser:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Folder Structure
